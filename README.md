@@ -1,0 +1,1 @@
+The BharatGo Partner Dashboard is a web-based platform designed to help sellers manage their online business efficiently. The dashboard provides insights into store performance, sales, orders, website visits, and customer engagement.
